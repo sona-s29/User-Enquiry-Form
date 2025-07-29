@@ -78,7 +78,6 @@ let getValue = (e) => {
 
 }
 
-
   useEffect(() => {
     getAllEnquiry();
   }, []);
